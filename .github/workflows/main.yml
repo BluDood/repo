@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v2
 
       - name: Delete old files
         continue-on-error: true
@@ -30,3 +31,9 @@ jobs:
           
       - name: Create Releases file
         run: apt-ftparchive release -c ./repo.conf . > Release
+        
+      - name: Stage, commit and push files
+        run: |
+          git add .
+          git commit -m "Updated Repo"
+          git push origin
