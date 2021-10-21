@@ -1,0 +1,29 @@
+Architectures: iphoneos-arm
+Codename: bludood
+Components: main
+Date: Thu, 21 Oct 2021 18:09:14 +0000
+Description: Tweaks made by BluDood
+Label: BluDood's Repo
+Origin: BluDood's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 6b0f0f4e48e428346be6847fbfce53cb              691 Packages
+ 2001923b4673039bc09d1b4f6181213a              503 Packages.bz2
+ de0c5a9b8c6f3aea518885ae0984d70a              464 Packages.gz
+ 8a7209cb79f936cfa5c961f984882386              209 Release
+SHA1:
+ 7602d57ff58e431c693ec760f1627e448cfb01bc              691 Packages
+ 3826fa5cc287f3473eb3ed170223fbf092074825              503 Packages.bz2
+ 24cfa4c4fa3bdd51384b9fd4ef04d3095776cea9              464 Packages.gz
+ 718554e10d496c0f050466ed3e729172d238fc02              209 Release
+SHA256:
+ 24d3a1c3772957961ee19ca5860904fdffcd0ee5c65b2f9dbb43f7c3e0eebdf1              691 Packages
+ c9bfb55684d498c985c1453883cc06466734093ca6a4616a57e5f5c99511441e              503 Packages.bz2
+ 265f85a3b6f79e83e6ff68ff56557134f7448edbd9653fda807f8aed7a4f8a83              464 Packages.gz
+ a14ef4e0d450f2d05b80e17232bc628cd2b899bbd255a332812bab27cc56d05b              209 Release
+SHA512:
+ bec9eb521ee298917a3e0d2b18e9391b22f631690c6b5c491f55138ebab720f1e7c585ff8a8b61dc872bd7655c64a891c7a1c1b93eb19f411130ec1ec9136b26              691 Packages
+ 4d2d6909d9ee7212b14eac374f83497e3169732fb6d7cd0280bc74b35ab594369c290760d2713a6070cc823bcf98390b3a9a662091434644d443385ee65a57df              503 Packages.bz2
+ ba9c354ca60f97e55760124912db713e2b942ec301fdecb1395ea5f3ef389baaa571617f53ccd9370667f0055f503bba620afc38ad337d62a46439059d5d8504              464 Packages.gz
+ d99be1108faac82353a2f9b7e037c4ce0d404ecb35127e4a8db447a2742d7a8607d00ecded3a8a78b2e89d43c8580bdd8caa7df03e3207f2744d0b8c88313c8a              209 Release

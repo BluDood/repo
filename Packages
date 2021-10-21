@@ -1,0 +1,16 @@
+Package: extremelyusefultweak
+Architecture: iphoneos-arm
+Version: 69.420
+Section: "Applications"
+Maintainer: "BluDood <bludood@bludood.com>"
+Filename: ./debs/com.bludood.extremelyusefultweak_69.420-1_iphoneos-arm.deb
+Size: 828
+MD5sum: 4802b077c1ca6daffdacdfd0d0837882
+SHA1: 6d94fe379fac1f6e0d6ec7fd51f7b161d8bcd2b1
+SHA256: f422f798dcdf74d1675a31a488e2e57c6ee853f12afc7e209ef1fa0f97d02b55
+SHA512: edea7c707686f2c9140a228cc7dde24716ee67eeddf91172638499eb62fb31b3be39cd617afbf3857d8a8ad90fa98909cbf919babcc844365828991c1ce173b8
+Description: "An Extremely Useful Tweak! It does absolutely nothing. Very cool"
+Name: "Extremely Useful Tweak"
+Depiction: ""
+Author: "BluDood <bludood@bludood.com>"
+
