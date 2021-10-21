@@ -3,7 +3,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: BluDood <bludood@bludood.com>
-Filename: ./debs/com.bludood.helloworld/com.bludood.helloworld_1.0-1_iphoneos-arm.deb
+Filename: ./debs/com.bludood.helloworld_1.0-1_iphoneos-arm.deb
 Size: 780
 MD5sum: 2747b3f7fa3aa55fa7f8422b3b902320
 SHA1: a11040fa5abc9a6063cd5b98b9b446ba26d69f6e
@@ -19,7 +19,7 @@ Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
 Maintainer: BluDood <bludood@bludood.com>
-Filename: ./debs/com.bludood.helloworld/com.bludood.helloworld_1.1-1_iphoneos-arm.deb
+Filename: ./debs/com.bludood.helloworld_1.1-1_iphoneos-arm.deb
 Size: 776
 MD5sum: 8b3d637db5c9cdffda812466518c205e
 SHA1: 9d719c8d348c9a90ff39e87d28c7242c2b12d4ec
