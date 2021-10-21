@@ -1,16 +1,32 @@
-Package: extremelyusefultweak
+Package: helloworld
 Architecture: iphoneos-arm
-Version: 69.420
-Section: "Applications"
+Version: 1.0
+Section: "Tweaks"
 Maintainer: "BluDood <bludood@bludood.com>"
-Filename: ./debs/com.bludood.extremelyusefultweak_69.420-1_iphoneos-arm.deb
-Size: 828
-MD5sum: 4802b077c1ca6daffdacdfd0d0837882
-SHA1: 6d94fe379fac1f6e0d6ec7fd51f7b161d8bcd2b1
-SHA256: f422f798dcdf74d1675a31a488e2e57c6ee853f12afc7e209ef1fa0f97d02b55
-SHA512: edea7c707686f2c9140a228cc7dde24716ee67eeddf91172638499eb62fb31b3be39cd617afbf3857d8a8ad90fa98909cbf919babcc844365828991c1ce173b8
-Description: "An Extremely Useful Tweak! It does absolutely nothing. Very cool"
-Name: "Extremely Useful Tweak"
+Filename: ./debs/com.bludood.helloworld_1.0-1_iphoneos-arm.deb
+Size: 784
+MD5sum: 6e0429263192249e51b337aaa7a635eb
+SHA1: a0ce85ca7ef94741f8dfd23cec47f67e322f6c3b
+SHA256: 9385d676153c27d0642d93d3712be5a5efdee66e3c88d9afee63c49568e7973c
+SHA512: d5725ce8046578f5cdbaa515e4950be6f499332b464ee89b036e771cf2434ce0b3324e3b58584e3fddf20ca38fa465dcd8a6cd3ab9ce6bab639b020bc96fd88f
+Description: A testing tweak that says "Hello World, version 1.0"
+Name: Hello, World!
+Depiction: ""
+Author: "BluDood <bludood@bludood.com>"
+
+Package: helloworld
+Architecture: iphoneos-arm
+Version: 1.1
+Section: "Tweaks"
+Maintainer: "BluDood <bludood@bludood.com>"
+Filename: ./debs/com.bludood.helloworld_1.1-1_iphoneos-arm.deb
+Size: 796
+MD5sum: 12bea3c20740e422e6f13919bde72dfc
+SHA1: 680680c4eec44b7cfbdf589952ecc37e4cca0200
+SHA256: e5eb49a02007b72232719ec298a1f686ca076b9c48dc5ac3dd47136f3357b9c4
+SHA512: 1b68f8af27f7096f37c2a0025b0d5705f4996b607745c351c82021ca024220cd60c51da857e0e7cd23ac0fd4afa9057df3478713c1a446f73a2cb5f6919916db
+Description: A testing tweak that says "Hello World, version 1.1"
+Name: Hello, World!
 Depiction: ""
 Author: "BluDood <bludood@bludood.com>"
 
