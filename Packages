@@ -3,12 +3,12 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: "Tweaks"
 Maintainer: "BluDood <bludood@bludood.com>"
-Filename: ./debs/com.bludood.helloworld_1.0-1_iphoneos-arm.deb
-Size: 784
-MD5sum: 6e0429263192249e51b337aaa7a635eb
-SHA1: a0ce85ca7ef94741f8dfd23cec47f67e322f6c3b
-SHA256: 9385d676153c27d0642d93d3712be5a5efdee66e3c88d9afee63c49568e7973c
-SHA512: d5725ce8046578f5cdbaa515e4950be6f499332b464ee89b036e771cf2434ce0b3324e3b58584e3fddf20ca38fa465dcd8a6cd3ab9ce6bab639b020bc96fd88f
+Filename: ./debs/com.bludood.helloworld/com.bludood.helloworld_1.0-1_iphoneos-arm.deb
+Size: 780
+MD5sum: 59da82b9e7cb607f32c59abfe74479ae
+SHA1: b1221821af48e7062072262b8cf681ea16c499f5
+SHA256: 677522ab61f1a9feddcb46dff116e0b11ee6bb6254bd7f8492cff728519221d8
+SHA512: ce31d71ff032b5d09b5cf8f42c2d6570c71d42bc0ab851b943f99ca1d4f747a5b51890049927ae8756ba3dead2db514a8d3425353a9416053ab109ac4333c30d
 Description: A testing tweak that says "Hello World, version 1.0"
 Name: Hello, World!
 Depiction: ""
@@ -19,12 +19,12 @@ Architecture: iphoneos-arm
 Version: 1.1
 Section: "Tweaks"
 Maintainer: "BluDood <bludood@bludood.com>"
-Filename: ./debs/com.bludood.helloworld_1.1-1_iphoneos-arm.deb
-Size: 796
-MD5sum: 12bea3c20740e422e6f13919bde72dfc
-SHA1: 680680c4eec44b7cfbdf589952ecc37e4cca0200
-SHA256: e5eb49a02007b72232719ec298a1f686ca076b9c48dc5ac3dd47136f3357b9c4
-SHA512: 1b68f8af27f7096f37c2a0025b0d5705f4996b607745c351c82021ca024220cd60c51da857e0e7cd23ac0fd4afa9057df3478713c1a446f73a2cb5f6919916db
+Filename: ./debs/com.bludood.helloworld/com.bludood.helloworld_1.1-1_iphoneos-arm.deb
+Size: 776
+MD5sum: b45d2d4fd9a939b2417e9bb0453b4fc6
+SHA1: 45628c4b3a6ddd4aedc31340024a93642585dbdf
+SHA256: df14f9b351e8450912d5bbc5f17419fadd2c167a1008c32067ec0f4458071cf9
+SHA512: e9792f9ea06fb733f0592666eed556a34f20173a78d9254274abf61f26a68e3baa30c002d5802293413338c93e79c43d7d8d37f6ac759083c58b940752888b03
 Description: A testing tweak that says "Hello World, version 1.1"
 Name: Hello, World!
 Depiction: ""
