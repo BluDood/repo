@@ -18,6 +18,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Delete old files
+        continue-on-error: true
         run: rm Packages Packages.gz Packages.bz2 Release
 
       - name: Create Packages file
