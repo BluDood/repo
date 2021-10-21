@@ -32,6 +32,10 @@ jobs:
       - name: Create Releases file
         run: apt-ftparchive release -c ./repo.conf . > Release
         
+      - name: Set Git username
+        run: |
+          git config --global user.name "GitHub Actions"
+        
       - name: Stage, commit and push files
         run: |
           git add .
