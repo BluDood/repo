@@ -1,35 +1,3 @@
-Package: com.bludood.ExampleApp
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Applications
-Maintainer: BluDood <bludood@bludood.com>
-Filename: ./debs/com.bludood.ExampleApp_1.0-1_iphoneos-arm.deb
-Size: 74328
-MD5sum: d304d73b5ddc5d99c4dc767e77816a3a
-SHA1: 3cd6522428585f546694962ae7f472c60ec3cad2
-SHA256: 3a0d8cd11d0dc076d0a63bef48a81093d1d62d29d22595723c720b5349712c6c
-SHA512: 9a6494220e716c77e970e41d1ea87879f849d750d962d0a6c785d5b124275700af9aa5b694e625f1429730bfb6bd5ec284901d44f3069c4f831a9f32de5ead4b
-Description: An Example App which has two pages. One "Home", and one to respring the device.
-Name: ExampleApp
-Depiction: ""
-Author: BluDood <bludood@bludood.com>
-
-Package: com.bludood.ExampleApp
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Applications
-Maintainer: BluDood <bludood@bludood.com>
-Filename: ./debs/com.bludood.ExampleApp_1.1-1_iphoneos-arm.deb
-Size: 60040
-MD5sum: 870d49151ce583243e4d95c7796187d4
-SHA1: e105e5e6a51be7adb9c82aa79859244004d80224
-SHA256: b995b78ea04ea8a531507979e0a1c8adfab17bef11fdc55583a17324bbbecf46
-SHA512: 879a8aedcafbe8f47e9c967ae89fd97a83779e33d8f9ab94376b466dc3c9a3d378c3662c81158ab254a59a65cf839d0594417519eff7d81460bca768590750ae
-Description: An Example App which has two pages. One "Home", and one to respring the device.
-Name: ExampleApp
-Depiction: ""
-Author: BluDood <bludood@bludood.com>
-
 Package: com.bludood.helloworld
 Architecture: iphoneos-arm
 Version: 1.0
@@ -37,10 +5,10 @@ Section: Tweaks
 Maintainer: BluDood <bludood@bludood.com>
 Filename: ./debs/com.bludood.helloworld_1.0-1_iphoneos-arm.deb
 Size: 788
-MD5sum: 6027c12165e10f12c2d515a0ff4ac6b3
-SHA1: 35e67d500ebebbc807116228ca5d922156dc4af7
-SHA256: 74cbd5a582b93d0144f5324e823422b67a763e380c4e8d4a40c3d26bdba127cc
-SHA512: ecda9043cfde73e46e3047650b6d48c2abcc24d188f9024d2dd129c79a340d7e02bce6abfbf6303cec17a976c8b86293a3f1218c6ce7219c6ebee91672410318
+MD5sum: e5a05a5f45eaffc31d3fe6afe98c8910
+SHA1: ab4d4cff630a6323d5adc971a28185488cb06d37
+SHA256: 48079558ffbc08bc9de62f86b817417ee4fb3221296ad7aab13d1068b83ce3b4
+SHA512: 3da318eb4b6fa73d82bfc5305436fac79ecd4c9dbc8e1eacbbea67d523990b13d1cce8c76484e47a59f58e730a325ec59e8fd74cb3a47039b82396ca6cab207a
 Description: A testing tweak that says "Hello World, version 1.0"
 Name: Hello, World!
 Depiction: ""
