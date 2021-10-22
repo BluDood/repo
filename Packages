@@ -48,16 +48,16 @@ Author: BluDood <bludood@bludood.com>
 
 Package: com.bludood.helloworld
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.2
 Section: Tweaks
 Maintainer: BluDood <bludood@bludood.com>
 Filename: ./debs/com.bludood.helloworld_1.2-1_iphoneos-arm.deb
-Size: 816
-MD5sum: bec5f4bc547425f4db886ad83c2d183a
-SHA1: 471592e459a6e9bf06614e4b2b518026d78573c4
-SHA256: 55c4b7129bb6a140391e5b6220f76752eef6bcb66d409a4cc3625e4ffc5c685a
-SHA512: 758af4add63182b1d0535170dfdd25b9b002184deb5be5394d5016882d55cc37aeb063291d2bf78fad1741bbfe04a244c270ebd74245625bd8d52b9678c86691
-Description: A testing tweak that says "Hello World, version 1.1"
+Size: 836
+MD5sum: b47ed2add8ebc556ca862a4040c1e43f
+SHA1: cf2085c62f4dc976ec37ed7e50e5b157733ed0d3
+SHA256: 060f1ad9b47605bba3c0baf3f2eeee32fedeab33767db6de8edfa42fb721fbe1
+SHA512: faf9aa906013648e9cae2c04b8e604a02828096c746b4b64477ded8e089ef10dbce0641566fba7f3f60de248db9150302f7645e0fd5a66c80995a49b806040ec
+Description: A testing tweak that says "Hello World, version 1.2" on install, and "Goodbye, World!" on uninstall.
 Name: Hello, World!
 Depiction: ""
 Author: BluDood <bludood@bludood.com>
