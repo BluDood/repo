@@ -1,4 +1,4 @@
-Package: helloworld
+Package: com.bludood.helloworld
 Name: Hello, World!
 Version: 1.0
 Architecture: iphoneos-arm

@@ -1,0 +1,9 @@
+Package: com.bludood.ExampleApp
+Name: ExampleApp
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An Example App which has two pages. One "Home", and one to respring the device.
+Depiction: ""
+Maintainer: BluDood <bludood@bludood.com>
+Author: BluDood <bludood@bludood.com>
+Section: Applications
