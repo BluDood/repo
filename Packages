@@ -46,3 +46,19 @@ Name: Hello, World!
 Depiction: ""
 Author: BluDood <bludood@bludood.com>
 
+Package: com.bludood.helloworld
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: BluDood <bludood@bludood.com>
+Filename: ./debs/com.bludood.helloworld_1.2-1_iphoneos-arm.deb
+Size: 816
+MD5sum: bec5f4bc547425f4db886ad83c2d183a
+SHA1: 471592e459a6e9bf06614e4b2b518026d78573c4
+SHA256: 55c4b7129bb6a140391e5b6220f76752eef6bcb66d409a4cc3625e4ffc5c685a
+SHA512: 758af4add63182b1d0535170dfdd25b9b002184deb5be5394d5016882d55cc37aeb063291d2bf78fad1741bbfe04a244c270ebd74245625bd8d52b9678c86691
+Description: A testing tweak that says "Hello World, version 1.1"
+Name: Hello, World!
+Depiction: ""
+Author: BluDood <bludood@bludood.com>
+
