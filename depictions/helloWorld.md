@@ -3,6 +3,9 @@ Displays "Hello, World!" on installation.
 
 Displays "Goodbye, World!" on uninstallation.
 
+## Changes in 1.4
+- Added depiction
+
 ## Changes in 1.3
 - Added icon for tweak
 
