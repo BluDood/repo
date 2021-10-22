@@ -1,29 +1,29 @@
 Architectures: iphoneos-arm
 Codename: bludood
 Components: main
-Date: Fri, 22 Oct 2021 18:09:20 +0000
+Date: Fri, 22 Oct 2021 18:12:43 +0000
 Description: Tweaks made by BluDood
 Label: BluDood's Repo
 Origin: BluDood's Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
- 58e87f3a69b4c6d745d368a3968f28cd             1280 Packages
- 2e9c0696c0e2dfc893d795617201a25a              698 Packages.bz2
- fe3dc5aa142e5398edc175d8f7d0318f              629 Packages.gz
- acc26b734d11e550e01ffa01af57b14f              209 Release
+ 39ef7c565799f24db3648906e866e8d2             1952 Packages
+ 989ae8e7b5ae07e776738d852dedf432              992 Packages.bz2
+ c43c425f2f02540d532a4172b9e37b14              890 Packages.gz
+ e0e3d974b46e243b63e7e88d08263057              209 Release
 SHA1:
- 058b5a5e86c45f72177e03810f2f5f6579a60ae4             1280 Packages
- f6c3106ea224cbd96cef157745ba0e797ef4edf0              698 Packages.bz2
- e71a889025732420f222328817ca56849b91f390              629 Packages.gz
- 2f17526fbe3b7accede220f2fd3681ec3efadfc2              209 Release
+ 1be8634df557eba56fef260280d58638fe479453             1952 Packages
+ 785bd3369aeb4373bf802c1ad95f7fd18a49a2f8              992 Packages.bz2
+ 51e7beb9f00fea545ca88aa08034d2c961591b8e              890 Packages.gz
+ 53eac08950cfb9f0561066872abb152bb3a76bc8              209 Release
 SHA256:
- 5fd02cfdaf9a9aaa02f4066e20bd32b3fcbfc7e28d1c57317889826cbdda66ef             1280 Packages
- beb2950040cc543cd83f1b9b2a6d63737b10969f7648626eda9d902f652641f8              698 Packages.bz2
- d74bb9623b591189dd622f0ea889c13f7386a071ff34875c68c28612a449bc45              629 Packages.gz
- 131903a2d65a76c354ec84b8f2ef992fa6c23e1d479627196537d2cb2e57266e              209 Release
+ 340f0287caa80d751d195f672b5366fb5ae85c166e99b43a368f726c6291161f             1952 Packages
+ 6c27e836b4da171d308c62466faa0afcbd01b0be9c34f0b20c4a967b3a8bcf06              992 Packages.bz2
+ c11f15f4102db78320781a9e45e88dc576a4a9498a383d78631289320c70a502              890 Packages.gz
+ 5fc63bd15487135a6e3da2cc05a984aff598c4100c956aec6418a3299a43a476              209 Release
 SHA512:
- 83eb6c00528a7810f08b3ed1d0a7fc7b9dd636ad7834e5ecd128a58e392f8903d250fe704d51dd1adddf56c73a8744c1783b00972f2822cedfc1c4345b741249             1280 Packages
- b69cc9a0376b08f5bce7ebc928da77c5a0cf51c9180d33daf6dab058859f667ea266fa1fc9a563a58b0cb1661b5405d328394398d677c1fb3b7383f67ab84cc0              698 Packages.bz2
- 4b7e5c1f674bb9caed4e74ea74d2435726568a7cd1788bcb0a2017ac43b97ea21f6ee22616a2a01cab9e6812b24daede79394e85c629d5b86bc21b6bc2432090              629 Packages.gz
- 0caf0eec6a676a6fee0e1fd641e6618bb670ffa1fb2db755138638c3cf37328aaf3b66942b326bebf9c40ffce6f83608b50a501bcbe6150c00d793f7bba4e3e7              209 Release
+ 1a37c378f16e2427316d604be516ebbe2257a131798c4e583feb0036cf9dac71360236dd2210fb7299d0c77e5d2342ce92160c866c3e6b9223923071344cd58c             1952 Packages
+ 80178c0851db16492747635059a9b9b1666cc9f4756ea71fd6da761f3132feee271521d7b38f4f8e42b4c08638858514abd3326338591000ad82522505d0e9ae              992 Packages.bz2
+ 8edbe9ca49e7d3aff3292a838a897523fdde0fd187ab948af0dba6cbae713ace821a9accecab8ab87a60a21f13f2b90da110e42d5c0fb121a8ee7e1ef838c04b              890 Packages.gz
+ ff0c9ee42081a71f412f465e1a97fcb2193732704b7add332cca9d45089a7dc7815d3daf9c2b85f3a3e62122c351f3b87ca0400748a3649a1958ec0d9d774ddc              209 Release

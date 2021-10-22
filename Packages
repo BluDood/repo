@@ -1,3 +1,19 @@
+Package: com.bludood.ExampleApp
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Applications
+Maintainer: BluDood <bludood@bludood.com>
+Filename: ./debs/com.bludood.ExampleApp_1.0-1_iphoneos-arm.deb
+Size: 60040
+MD5sum: 10e76a5b889502fb63998368722bf97f
+SHA1: f5589b3c59201e6985facfd3d6cb92fb6c41aa97
+SHA256: 74f2e148cae19c7f853434786cffad95002a989808fddf117ffaab4fc082977e
+SHA512: 7119da2207d882513cf8e48e8c8598950af5f9ac19ec4d8fe22ccc2dc2dbf2cd830a67c668bd32ba48f8f1d46303d0d73404c695347bdcb30eb2e3c360977f62
+Description: An Example App which has two pages. One "Home", and one to respring the device.
+Name: ExampleApp
+Depiction: ""
+Author: BluDood <bludood@bludood.com>
+
 Package: com.bludood.helloworld
 Architecture: iphoneos-arm
 Version: 1.0
