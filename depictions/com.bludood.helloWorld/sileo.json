@@ -1,6 +1,8 @@
 {
     "class": "DepictionTabView",
     "minVersion": "0.1",
+    "headerImage": "https://repo.bludood.com/depictions/com.bludood.helloWorld/banner.png",
+    "tintColor": "#FFFF00",
     "tabs": [
         {
             "class": "DepictionStackView",
