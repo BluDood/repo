@@ -1,0 +1,113 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionLabelView",
+                    "text": "A simple testing tweak.",
+                    "fontWeight": "medium"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# testing ## testing ### testing testing **testing** _testing_ - testing - testing2",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "BluDood"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.4"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "iOS Version",
+                    "text": "iOS 14"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Last update",
+                    "text": "23/10/2021"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Release date",
+                    "text": "23/10/2021"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Category",
+                    "text": "Tweaks"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Github",
+                    "action": "https://github.com/BluDood"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Twitter",
+                    "action": "https://twitter.com/ItsBluDood"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "E-Mail",
+                    "action": "mailto:bludood@bludood.com"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Changes in v1.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added depiction",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "v1.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added icon for tweak",
+                    "useSpacing": true
+                }
+            ]
+        }
+    ]
+}
