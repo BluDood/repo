@@ -86,13 +86,13 @@ Section: Tweaks
 Maintainer: BluDood <bludood@bludood.com>
 Filename: ./debs/com.bludood.helloworld_1.4-1_iphoneos-arm.deb
 Size: 868
-MD5sum: e455a1f128ff89f83d23e2c0a73e0c8f
-SHA1: 6fd9145e4c1221d3642d6bea1e199c4a053d60ce
-SHA256: 6bbc1af543949ca1ca8d91696c59502c47bc866f39f64e2215fdf77b6d815a3b
-SHA512: 5e9d5a2a7ec533a1f7cf9591cffa076389cd444054c30bd217834f042381d2ff5936c6f6749d3daffbfb6aa228c0d0fe9b37e62abd0eecc5027fb057855a08e9
+MD5sum: 668128b28ecc9f8232305c2b968824fb
+SHA1: 58a83fd118c713440c62144c1cf1901349ce40a0
+SHA256: 6266993ac8260bfb98915b211909cea470f2db1812e95d15098f412a5ea16286
+SHA512: 560160c150c84d14e0a0551a0c3d9a28384281bd647e6351828d18712262334472a363b28e05ecfb49bb8e4f745712674171fca3c769d96dc1680a334019a6a9
 Description: A testing tweak that says "Hello World!" on install, and "Goodbye, World!" on uninstall.
 Name: Hello, World!
 Author: BluDood <bludood@bludood.com>
 Icon: https://repo.bludood.com/icons/helloWorld.png
-Depiction: https://repo.bludood.com/depictions/helloWorld.md
+Depiction: https://repo.bludood.com/depictions/helloWorld.html
 
