@@ -6,13 +6,13 @@
        {  
           "url":"https://repo.bludood.com/depictions/com.bludood.ExampleApp/banner.png",
           "title":"ExampleApp",
-          "package":"com.bludood.ExampleApp",
+          "package":"com.bludood.exampleapp",
           "hideShadow":false
        },
        {  
           "url":"https://repo.bludood.com/depictions/com.bludood.helloWorld/banner.png",
           "title":"Hello, World!",
-          "package":"com.bludood.ExampleApp",
+          "package":"com.bludood.helloworld",
           "hideShadow":false
        }
     ]
