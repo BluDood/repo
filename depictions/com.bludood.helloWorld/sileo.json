@@ -7,17 +7,18 @@
             "tabname": "Details",
             "views": [
                 {
-                    "class": "DepictionLabelView",
-                    "text": "A simple testing tweak.",
-                    "fontWeight": "medium"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
+                    "class": "DepictionMarkdownView",
+                    "markdown": "# Hello, World!",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "# testing ## testing ### testing testing **testing** _testing_ - testing - testing2",
+                    "markdown": "Displays 'Hello, World!' on installation.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Displays 'Goodbye, World!' on uninstallation.",
                     "useSpacing": true
                 },
                 {
@@ -40,17 +41,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "title": "iOS Version",
-                    "text": "iOS 14"
-                },
-                {
-                    "class": "DepictionTableTextView",
                     "title": "Last update",
-                    "text": "23/10/2021"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Release date",
                     "text": "23/10/2021"
                 },
                 {
@@ -98,13 +89,27 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "v1.3",
+                    "title": "Changes in v1.3",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "- Added icon for tweak",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Changes in v1.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Now says 'Goodbye, World!' on uninstallation",
                     "useSpacing": true
                 }
             ]
