@@ -14,6 +14,24 @@ Name: ExampleApp
 Depiction: ""
 Author: BluDood <bludood@bludood.com>
 
+Package: com.bludood.ExampleApp
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Applications
+Maintainer: BluDood <bludood@bludood.com>
+Filename: ./debs/com.bludood.ExampleApp_1.1-1_iphoneos-arm.deb
+Size: 60072
+MD5sum: 4a308eba7ccf19f449a328829b97845e
+SHA1: 16c7f5c183865326ea20497547d2cc66d172745c
+SHA256: 09c4adb15701313f7e39dc7063ec9f19a9d425cfa202b436335bc1bfc8f063c4
+SHA512: a724e4ce64358a1a98f727f3d7008526493aded7698c67aca78163bb1947c6e2f15e006535d7f049ec03d82f539f829c6e70b17408a8e401ffe635d697030cdd
+Description: An Example App which has two pages. One "Home", and one to respring the device.
+Name: ExampleApp
+Author: BluDood <bludood@bludood.com>
+Icon: https://repo.bludood.com/depictions/com.bludood.ExampleApp/icon.png
+Depiction: https://repo.bludood.com/depictions/com.bludood.ExampleApp/index.html
+SileoDepiction: https://repo.bludood.com/depictions/com.bludood.ExampleApp/sileo.json
+
 Package: com.bludood.helloworld
 Architecture: iphoneos-arm
 Version: 1.0
