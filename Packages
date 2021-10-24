@@ -20,12 +20,12 @@ Version: 1.1
 Section: Applications
 Maintainer: BluDood <bludood@bludood.com>
 Filename: ./debs/com.bludood.ExampleApp_1.1-1_iphoneos-arm.deb
-Size: 60072
-MD5sum: 4a308eba7ccf19f449a328829b97845e
-SHA1: 16c7f5c183865326ea20497547d2cc66d172745c
-SHA256: 09c4adb15701313f7e39dc7063ec9f19a9d425cfa202b436335bc1bfc8f063c4
-SHA512: a724e4ce64358a1a98f727f3d7008526493aded7698c67aca78163bb1947c6e2f15e006535d7f049ec03d82f539f829c6e70b17408a8e401ffe635d697030cdd
-Description: An Example App which has two pages. One "Home", and one to respring the device.
+Size: 60056
+MD5sum: 7c0ef170dc482eb9590484e2435a324e
+SHA1: 9ae3b6c3f954049a8f4484c49021f14c6d94e2b0
+SHA256: dd8384571e6b2199fad9c100666d0d521f01bc41eca3428da288ffc2b66a4fc3
+SHA512: 06bfec85667c6f77c68bc01eea8bf2031d4c120f9e923a3de39895ee7a855f4e772616a989465c6aadfea8d2eebfc984573bd0f12b6db6799c25e4fd781af057
+Description: A testing app with two pages; Home and Respring.
 Name: ExampleApp
 Author: BluDood <bludood@bludood.com>
 Icon: https://repo.bludood.com/depictions/com.bludood.ExampleApp/icon.png
@@ -103,12 +103,12 @@ Version: 1.4
 Section: Tweaks
 Maintainer: BluDood <bludood@bludood.com>
 Filename: ./debs/com.bludood.helloworld_1.4-1_iphoneos-arm.deb
-Size: 896
-MD5sum: a261ddd3bfea09207b2a255f5c818488
-SHA1: 4bf6050be52ba61d27e9488f1575b11a11accb76
-SHA256: 4f60ba9edbe6a85a2841011ac5495df818795a50044afd5cfd919d44dcea0922
-SHA512: d11f01b91b1f28491c0f8c69210ae2e11300d0649b574e755b4ba165d6751e96833588298f36900831e694656acc95f031710f21076ba6d038f255f05ed4bb6b
-Description: A testing tweak that says "Hello World!" on install, and "Goodbye, World!" on uninstall.
+Size: 852
+MD5sum: 60a8b3435613760e4fbd3cc5935cad7e
+SHA1: 79ad3faba60ae37f868e1206a0203f4234006d56
+SHA256: 1ba371314b81e166b4448d09d819803b0a5db99530dd3f42f67cd35f78e6e0bd
+SHA512: 736bf7976346633338eb492ee7bdeea067bb099c07e3ca7d4b684ea044fd0ac94f922117b083183f4f8ec9497b3ac9fbd810ccc813ad2b67387835358e973703
+Description: A simple testing tweak.
 Name: Hello, World!
 Author: BluDood <bludood@bludood.com>
 Icon: https://repo.bludood.com/depictions/com.bludood.helloWorld/icon.png
