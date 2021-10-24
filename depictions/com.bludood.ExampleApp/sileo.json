@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.1",
     "headerImage": "https://repo.bludood.com/depictions/com.bludood.ExampleApp/banner.png",
-    "tintColor": "#232323",
+    "tintColor": "#A0A0A0",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -15,7 +15,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "A testing app with two pages; Home and Respring.",
+                    "markdown": "### A testing app with two pages; Home and Respring.",
                     "useSpacing": true
                 },
                 {

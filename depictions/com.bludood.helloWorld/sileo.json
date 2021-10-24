@@ -15,12 +15,25 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Displays 'Hello, World!' on installation.",
+                    "markdown": "### A simple testing tweak.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "## Features",
                     "useSpacing": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Displays 'Goodbye, World!' on uninstallation.",
+                    "markdown": "- Displays 'Hello, World!' on installation.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Displays 'Goodbye, World!' on uninstallation.",
                     "useSpacing": true
                 },
                 {
