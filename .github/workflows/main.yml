@@ -1,8 +1,7 @@
 name: Update Repo
 
-on: [push]
-
 on: 
+  push:
   workflow_dispatch:  
 
 jobs:
